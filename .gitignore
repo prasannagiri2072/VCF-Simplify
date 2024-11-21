@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+records_parser/buildvcf/__init__.c
+metadata_parser/__init__.c
+metadata_parser/utils.c
+metadata_parser/vcf_metadata_parser.c
+metadata_parser/vcf_metadata_writer.c
+records_parser/__init__.c
+records_parser/vcf_records_parser.c
+records_parser/vcf_records_writer.c
+records_parser/buildvcf/from_haplotype.c
+records_parser/buildvcf/from_table.c
+records_parser/simplifyvcf/__init__.c
+records_parser/simplifyvcf/to_haplotype.c
+records_parser/simplifyvcf/to_table.c
